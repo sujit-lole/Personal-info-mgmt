@@ -1,0 +1,30 @@
+[
+  {
+    "personId": 1,
+    "name": "sujit",
+    "surName": "lole",
+    "mobileNo": 9420209248,
+    "email": "sujit.lole@gmail.com",
+    "address": {
+      "addressId": 1,
+      "flatNo": "102",
+      "apartment": "Mahalaxmi",
+      "area": "akurdi",
+      "city": "akurdi",
+      "state": "maharashtra",
+      "pincode": 411035
+    },
+    "donate": [
+      {
+        "donateId": 2,
+        "donatedAmt": 500,
+        "donatedDate": 1516818600000
+      },
+      {
+        "donateId": 1,
+        "donatedAmt": 700,
+        "donatedDate": 1516818600000
+      }
+    ]
+  }
+]
